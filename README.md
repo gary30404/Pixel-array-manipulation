@@ -1,6 +1,5 @@
 # HW0: Pixel array manipulation
 ## Brief
-* Due: 10/24 at 8am
 * Required files: results/index.md, and code/
 
 # Objective
